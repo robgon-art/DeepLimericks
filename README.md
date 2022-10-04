@@ -6,7 +6,7 @@ By Robert. A Gonsalves</br>
 
 ![image](https://raw.githubusercontent.com/robgon-art/DeepLimericks/main/deep_limericks_med.jpg)
 
-You can see my article on Medium
+You can see my article on [Medium](https://medium.com/towards-data-science/i-once-trained-an-ai-to-rhyme-and-it-took-gpt-j-a-long-time-de1f98925e17)
 
 The source code and generated Haikus are released under the [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/).</br>
 ![CC BYC-SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
